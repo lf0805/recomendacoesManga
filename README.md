@@ -1,0 +1,1 @@
+## Programa de linha de comando com recomendações de alguns mangás baseado no gênero escolhido, caso não deseje escolher retorna todos os mangás em ordem crescente de capítulos
